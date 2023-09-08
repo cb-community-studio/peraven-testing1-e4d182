@@ -1,0 +1,14 @@
+[
+    {
+        "boolText": true,
+        "boolTick": true,
+        "boolcheckBox": false,
+        "boolswitch": true
+    },
+    {
+        "boolTick": false,
+        "boolcheckBox": true,
+        "boolText": false,
+        "boolswitch": false
+    }
+]
